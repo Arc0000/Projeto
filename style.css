@@ -1,0 +1,27 @@
+img{
+    margin-left: 120mm;
+    margin-right: 110mm;
+    width: 10cm;
+    right: 14cm;
+    margin-top: 1cm;
+}
+
+p1{
+    margin-left: 120mm;
+    margin-right: 110mm;
+    font-size: 200%;
+    color: white;
+}
+body{
+    background-color: rgb(243, 114, 23);
+}
+
+h1{
+    color: white;
+    font-size: 120%;
+}
+
+p{
+    color: rgb(255, 255, 3);
+    
+}
